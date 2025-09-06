@@ -136,3 +136,5 @@ lint/tmp/
 # lint/reports/
 quartz/
 /.idea/other.xml
+NOTES.md
+
